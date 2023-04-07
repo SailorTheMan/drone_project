@@ -1,0 +1,3 @@
+/home/sailor/drone_project/BluePill_test/Bluepill_test/build_cmake/CMakeFiles/stm32test.elf.dir
+/home/sailor/drone_project/BluePill_test/Bluepill_test/build_cmake/CMakeFiles/edit_cache.dir
+/home/sailor/drone_project/BluePill_test/Bluepill_test/build_cmake/CMakeFiles/rebuild_cache.dir
